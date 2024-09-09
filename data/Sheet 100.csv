@@ -1,0 +1,49 @@
+Data extracted on 09/09/2024 14:35:26 from [ESTAT],Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+Dataset: ,"Persons reading books in the last 12 months by sex, age, educational attainment and number of books [ilc_scp27]",,,
+Last updated: ,22/08/2024 23:00,,,
+,,,,
+Time frequency,,Annual,,
+International Standard Classification of Education (ISCED 2011),,"Less than primary, primary and lower secondary education (levels 0-2)",,
+Sex,,Females,,
+Age class,,65 years or over,,
+Unit of measure,,Percentage,,
+Time,,2022,,
+,,,,
+N_BOOK (Labels),No books,Less than 5 books,From 5 to 9 books,10 books or more
+GEO (Labels),,,,
+European Union - 27 countries (from 2020),66.7,17.9,6.8,8.5
+Belgium,59.2,17.5,10,13.2
+Bulgaria,89.7,8.2,1.1,0.9
+Czechia,42,31.1,13.7,13.2
+Denmark,30.1,32.4,12.7,24.8
+Germany,:,:,:,:
+Estonia,54.9,26.7,7.3,11.1
+Ireland,42,26.2,9.5,22.4
+Greece,81.1,14.5,2.5,1.9
+Spain,66.1,23.4,5.2,5.3
+France,45.1,25,11.8,18.1
+Croatia,83.7,12,2.5,1.8
+Italy,82.5,9.9,3.9,3.7
+Cyprus,76.4,15.7,5.1,2.8
+Latvia,67.5,15.2,6.8,10.5
+Lithuania,80.6,12.7,3.9,2.9
+Luxembourg,33.4,30.1,18.8,17.7
+Hungary,70.9,20.2,5.3,3.6
+Malta,61.9,22.3,7.7,8.1
+Netherlands,39.7,19.3,18.7,22.3
+Austria,58.6,23.8,9.1,8.5
+Poland,74.9,11.8,6,7.3
+Portugal,73.7,20.6,4,1.7
+Romania,92.1,6.6,1,0.3
+Slovenia,60.1,23,6.1,10.8
+Slovakia,76.2,17,2.9,3.9
+Finland,44.1,23.6,8.5,23.8
+Sweden,42.6,18.7,15.2,23.5
+Norway,35.1,22,14.7,28.1
+Switzerland,36.8,31,8.8,23.4
+Montenegro,95.3,3.3,0.6,0.8
+Serbia,92,5.5,1.5,1
+Türkiye,93,6,0.5,0.5
+,,,,
+Special value,,,,
+:,not available,,,
